@@ -68,8 +68,10 @@ intercomparison/skull-cartesian
 DATA/*
 
 ####################################
+# Jupyter and Python related files #
 ####################################
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 /CODE/BabelViscoFDTD/Executed*
+/CODE/BabelViscoFDTD/InputParam.json
 *.pyc

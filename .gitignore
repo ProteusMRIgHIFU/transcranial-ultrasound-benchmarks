@@ -64,3 +64,12 @@ intercomparison/kwave-comparison-plots
 intercomparison/metrics
 intercomparison/supplementary-material
 intercomparison/skull-cartesian
+
+DATA/*
+
+####################################
+####################################
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+/CODE/BabelViscoFDTD/Executed*
+*.pyc
